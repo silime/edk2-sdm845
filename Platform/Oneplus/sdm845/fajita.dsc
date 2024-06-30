@@ -11,9 +11,6 @@
   FLASH_DEFINITION               = Platform/Qualcomm/sdm845/sdm845.fdf
   DEVICE_DXE_FV_COMPONENTS       = Platform/Oneplus/sdm845/fajita.fdf.inc
 
-  # Enable A/B Slot Environment
-  AB_SLOTS_SUPPORT               = FALSE
-
 !include Platform/Qualcomm/sdm845/sdm845.dsc
 
 [BuildOptions.common]
