@@ -24,8 +24,8 @@
   gQcomTokenSpaceGuid.PcdMipiFrameBufferWidth|1080
   gQcomTokenSpaceGuid.PcdMipiFrameBufferHeight|2280
 
-  gRenegadePkgTokenSpaceGuid.PcdDeviceVendor|"Oneplus"
-  gRenegadePkgTokenSpaceGuid.PcdDeviceProduct|"6"
+  gRenegadePkgTokenSpaceGuid.PcdDeviceVendor|"OnePlus"
+  gRenegadePkgTokenSpaceGuid.PcdDeviceProduct|"OnePlus 6"
   gRenegadePkgTokenSpaceGuid.PcdDeviceCodeName|"enchilada"
 
   # Simple Init
