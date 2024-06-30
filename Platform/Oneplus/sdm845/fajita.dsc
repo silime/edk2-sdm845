@@ -27,6 +27,6 @@
   # Simple Init
   gSimpleInitTokenSpaceGuid.PcdGuiDefaultDPI|440
 
-  gRenegadePkgTokenSpaceGuid.PcdDeviceVendor|"Oneplus"
-  gRenegadePkgTokenSpaceGuid.PcdDeviceProduct|"6T"
+  gRenegadePkgTokenSpaceGuid.PcdDeviceVendor|"OnePlus"
+  gRenegadePkgTokenSpaceGuid.PcdDeviceProduct|"OnePlus 6T"
   gRenegadePkgTokenSpaceGuid.PcdDeviceCodeName|"fajita"
