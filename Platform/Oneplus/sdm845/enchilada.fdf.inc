@@ -1,14 +1,14 @@
 // per-device BSP DXEs
 FILE DRIVER = 5bd181db-0487-4f1a-ae73-820e165611b3 {
-  SECTION DXE_DEPEX = Platform/EFI_Binaries/Drivers/sdm845/ButtonsDxe/ButtonsDxe.depex
-  SECTION PE32 = Platform/EFI_Binaries/Drivers/sdm845/ButtonsDxe/ButtonsDxe.efi
+  SECTION DXE_DEPEX = Platforms/OldEFI_Binaries/ButtonsDxe/ButtonsDxe.depex
+  SECTION PE32 = Platforms/OldEFI_Binaries/ButtonsDxe/ButtonsDxe.patched.smem.efi
   SECTION UI = "ButtonsDxe"
 }
 
 // Synaptics Touch
 FILE DRIVER = F0D87C5E-4D5D-4FB5-939F-A6768AE8A310 {
-  SECTION DXE_DEPEX = Platform/EFI_Binaries/Drivers/sdm845/Synaptics/SynapticsTouchDeviceDxe.depex
-  SECTION PE32 = Platform/EFI_Binaries/Drivers/sdm845/Synaptics/SynapticsTouchDeviceDxe.efi
+  SECTION DXE_DEPEX = Platforms/OldEFI_Binaries/Synaptics/SynapticsTouchDeviceDxe.depex
+  SECTION PE32 = Platforms/OldEFI_Binaries/Synaptics/SynapticsTouchDeviceDxe.efi
   SECTION UI = "SynapticsTouchDeviceDxe"
 }
 
