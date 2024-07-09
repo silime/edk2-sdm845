@@ -28,6 +28,6 @@
   gSimpleInitTokenSpaceGuid.PcdGuiDefaultDPI|369
 
   gRenegadePkgTokenSpaceGuid.PcdDeviceVendor|"Thundercomm"
-  gRenegadePkgTokenSpaceGuid.PcdDeviceProduct|"Dragonboard-845c "
+  gRenegadePkgTokenSpaceGuid.PcdDeviceProduct|"Dragonboard-845c"
   gRenegadePkgTokenSpaceGuid.PcdDeviceCodeName|"thundercomm-db845c"
 
