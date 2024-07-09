@@ -38,6 +38,7 @@ jobs:
           - beryllium-tianma
           - polaris
           - perseus
+          - thundercomm-db845c 
           # sm7325
           - mona
           - lisa
