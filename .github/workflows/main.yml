@@ -64,7 +64,7 @@ jobs:
 
       - name: Build an image for ${{ matrix.device }}
         run: |
-          ./build.sh --device ${{ matrix.device }} -D USE_UART=1
+          ./build.sh --device ${{ matrix.device }} --uart
 
       - name: Upload a Build Artifact
         uses: actions/upload-artifact@v3
